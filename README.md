@@ -49,4 +49,5 @@ Se precisar de ajuda para utilizar o Conversor de Moedas ou para solucionar prob
 
 - Verificar o Repositório de Issues: Verifique a aba de Issues no GitHub para ver se o problema já foi relatado e se há uma solução.
 - Abrir uma Nova Issue: Caso o problema não esteja documentado, sinta-se à vontade para abrir uma nova issue. Descreva o problema com detalhes para que possamos ajudar.
-- Contactar o Autor: Se precisar de ajuda adicional, você pode enviar uma mensagem para o desenvolvedor via GitHub."# conversordemoedasalura" 
+- Contactar o Autor: Se precisar de ajuda adicional, você pode enviar uma mensagem para o desenvolvedor via GitHub."# conversordemoedasalura"
+- Toda contribuição será bem-vinda!
