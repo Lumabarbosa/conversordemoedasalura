@@ -9,10 +9,14 @@ import com.google.gson.Gson;
 import com.google.gson.JsonObject;
 
 public class ConsultaApi {
+
+    private String chaveApi = "eb17398d29f63e47191807a1";
+
     // URL base da API, substitua pela sua chave de API real
-    private static final String BASE_URL = "https://v6.exchangerate-api.com/v6/eb17398d29f63e47191807a1/pair/";
+    private final String BASE_URL = "https://v6.exchangerate-api.com/v6/" + chaveApi + "/pair/";
 
     public double obterTaxaDeCambio(String moedaEntrada, String moedaSaida) {
+
         // Constrói a URL completa para buscar a taxa de câmbio
         String url = BASE_URL + moedaEntrada + "/" + moedaSaida;
 
