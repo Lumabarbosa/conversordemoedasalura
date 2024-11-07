@@ -18,6 +18,24 @@ Este conversor é ideal para desenvolvedores que desejam aprender a integrar API
 - **Tratamento de Erros**: Verifica e informa caso a API retorne um erro, se o código de moeda for inválido ou se houver problemas na conexão com a API.
 - **Opção de Sair**: O usuário pode sair do programa a qualquer momento selecionando a opção de saída.
 
+## Screenshots
+
+### Tela do Menu Principal
+![Menu Principal](images/menuprincipal.png)
+
+### Tela de Conversão de Moedas
+![Conversão de Moedas](images/conversao.png)
+
+### Tela de Conversão de Moedas que não estão no menu
+![Conversão de Moedas](images/conversaomoedasdiferentes.png)
+
+### Tela finalização do programa
+![Conversão de Moedas](images/finalizandooprograma.png)
+
+### Tela arquivo histórico
+![Conversão de Moedas](images/historico.png)
+
+
 ## Como os Usuários Podem Utilizá-lo
 
 ### Pré-requisitos
